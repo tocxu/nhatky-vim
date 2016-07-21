@@ -1,5 +1,5 @@
 #Review
-Đại khái là một tool dùng để exit file text trong ubuntu, giống vi/nano/..
+Đại khái là một tool dùng để edit file text trong ubuntu, giống vi/nano/..
 
 Theo ý kiển chủ quan là tổng hợp ưu điểm của mấy cái trên và dễ dùng+thuận tiện. Cái chính nữa là mn chỗ mình làm dùng nó là chính :v
 #Command line
